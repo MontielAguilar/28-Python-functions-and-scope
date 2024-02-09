@@ -50,6 +50,3 @@ You can use these functions in your Python projects to perform mathematical oper
 
 If you would like to contribute with new functions, improvements, or fixes, you are welcome to do so! Simply fork this repository, make your changes, and send a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
