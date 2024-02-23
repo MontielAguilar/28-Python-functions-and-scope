@@ -22,7 +22,7 @@ The `list(lst)` function filters the elements of a list and returns a new list w
 
 The `multiplesparametros(*numeritosypalabritas)` function converts a series of numbers and words into a string, separating each element by an underscore.
 
-### 5. Function to perform mathematical operations with optional arguments
+### 5. Function to perform mathematical operations with optional arguments.
 
 The `realizar_operacion(x, y, op="add", ret_type="int")` function performs mathematical operations between two numbers according to the value of "op" and returns the result with the specified type. It allows specifying the operation to be performed ("add", "sub", "mul", "div") and the return type ("int", "float", "str").
 
