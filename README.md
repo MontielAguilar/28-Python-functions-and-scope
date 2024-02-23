@@ -34,7 +34,7 @@ The `apply_op(op, *args)` function receives an operation and a list of numbers, 
 
 The `procesar_lista(input_lista)` function receives a list of strings and generates a new string with the beginning of each one. Then, it adds this new element to the end of the list without modifying variables outside of its scope.
 
-### 8. Function to add exclamation marks to a list of strings
+### 8. Function to add exclamation marks to a list of strings.
 
 The `apply_op(op, *args)` function receives a list of strings and generates a new list with an exclamation mark added to the end of each string.
 
